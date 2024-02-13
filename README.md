@@ -10,9 +10,9 @@ pip install watchdog
 ```
 ### Configuration
 
-Modify the folder_to_watch variable in the main() function to specify the folder you want to monitor. Default is "C:\Users\Eren\Downloads".
+Modify the folder_to_watch variable in the main() function to specify the folder you want to monitor
 
-Adjust the destination_base variable in the FileHandler class to set the base directory where categorized folders will be created. Default is "C:\Users\Eren\Desktop\Folders\media".
+Adjust the destination_base variable in the FileHandler class to set the base directory where categorized folders will be created
 
 ### File Categorization
 
